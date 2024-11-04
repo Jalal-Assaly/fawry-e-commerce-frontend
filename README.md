@@ -25,7 +25,7 @@ The e-commerce application enables users to browse products, manage their shoppi
 1. Clone the repository and navigate to the frontend folder.
 2. Install the dependencies:
    ```
-   bash npm install
+   npm install
    ```
 3. Run the development server
    ```
