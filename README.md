@@ -4,7 +4,7 @@ This is the frontend of a complete e-commerce application developed during an in
 
 ## Project Overview
 
-The e-commerce application enables users to browse products, manage their shopping basket, apply coupons, place orders, and track their purchases. The frontend application interacts with multiple backend microservices to ensure a smooth and secure shopping experience.
+The e-commerce application enables users to browse products, manage their shopping basket, apply coupons, place orders, and pay through their bank account. The frontend application interacts with multiple backend microservices to ensure a smooth and secure shopping experience.
 
 ## Key Features
 
